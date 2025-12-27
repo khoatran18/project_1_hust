@@ -1,0 +1,8 @@
+# python=3.10
+scipy
+arff
+pandas
+numpy
+matplotlib
+sklearn
+xgboost
