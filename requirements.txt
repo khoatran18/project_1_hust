@@ -4,5 +4,6 @@ arff
 pandas
 numpy
 matplotlib
-sklearn
+scikit-learn
 xgboost
+shap
