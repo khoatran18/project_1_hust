@@ -1,4 +1,4 @@
-# Chronic Kidney Disease Prediction System
+# Chronic Kidney Disease Prediction
 
 ## Overview  
 
